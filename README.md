@@ -11,10 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 You should have PHP installed and a server hosting the file. 
 
 ```
--- install php: http://php.net/manual/en/install.php
+-- index.php // is the code file
 ```
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
-* Inspiration
-* etc
