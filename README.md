@@ -1,3 +1,6 @@
+# API script voorbeeld
+Toen ik voor Sosocio.com werkte heb ik samen met Bjorn Bos deze API script gemaakt: api-example.php
+
 # PHP Queen
 
 Small chessboard class counting maximal number of queens possible on one chessboard. 
