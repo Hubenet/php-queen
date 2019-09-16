@@ -1,3 +1,6 @@
+# Een Twig template sample
+Stelt allemaal niet veel voor, maar geeft wel een beetje de stijl weer van mijn manier van code schrijven.
+
 # API script voorbeeld
 Toen ik voor Sosocio.com werkte heb ik samen met Bjorn Bos deze API script gemaakt: api-example.php
 
